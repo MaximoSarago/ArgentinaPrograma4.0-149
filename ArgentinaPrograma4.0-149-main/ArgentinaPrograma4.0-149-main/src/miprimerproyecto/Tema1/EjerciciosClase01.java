@@ -1,4 +1,4 @@
-package miprimerproyecto;
+package miprimerproyecto.Tema1;
 
 public class EjerciciosClase01 {
 
